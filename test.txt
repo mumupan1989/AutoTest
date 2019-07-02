@@ -5,3 +5,4 @@ master上的操作
 这是需要合并的内容
 test合并冲突后的版本
 version1
+version2
